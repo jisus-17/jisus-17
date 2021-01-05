@@ -1,16 +1,59 @@
-### Hi there 👋
+Proyecto principal https://github.com/jisus-17/17tech - Jisus17
 
-<!--
-**jisus-17/jisus-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy Jesús, tengo habidad en diseño y desarrollo de robótica e Iot además soy desarrollador fullstack con experiencia en:
 
-Here are some ideas to get you started:
+### Apartados:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend↴
+  * NodeJS ◉◉◉◉◉
+  * DJango ◉◉◉◉
+  * ASP .NET ◉◉◉
+  * PHP ◉◉
+  * Flask ◉
+  
+* Bases de datos↴
+  * MongoDB ◉◉◉◉
+  * MySQL ◉◉
+  * SQLsever ◉
+  
+* Frontend-Web↴
+  * Html 5 ◉◉◉◉◉
+  * CSS 3 ◉◉◉◉
+  * Javascript ◉◉◉
+  * React ◉◉◉
+  * Vue ◉◉
+  * Angular ◉◉
+  * Bootstrap ◉
+  
+* Frontend-Mobile↴ 
+  * Android nativo
+    * Kotlin ◉◉◉◉
+    * Java ◉
+  * iOS nativo
+    * Objective-c ◉
+  * Multiplataforma
+    * Xamarin ◉◉◉◉
+    * React Native ◉◉◉
+    * Fluter ◉◉◉
+
+### Lenguajes:
+
+* Multipropósito
+  * C# ◉◉◉◉◉
+  * Python ◉◉◉◉◉
+  * Kotlin ◉◉◉◉
+  * Javascript ◉◉◉
+  * Bash ◉◉◉
+  * GO ◉◉◉
+  * Rust ◉◉
+  * PHP ◉◉
+  * C++ ◉◉
+  * Java ◉
+  * Objective-C ◉
+* Marcado
+  * HTML ◉◉◉◉◉
+  * Markdown ◉◉◉◉
+  * CSS ◉◉◉◉
+  * XML ◉◉
+
+*Indice de habilidades* *Profesional - ◉◉◉◉◉ Avanzado - ◉◉◉◉ Medio - ◉◉◉ Novato - ◉◉ Uso mínimo - ◉*

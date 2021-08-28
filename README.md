@@ -5,11 +5,11 @@ Proyecto principal https://github.com/jisus-17/pyxel-ProUtilities - Jisus17
 ### Apartados:
 
 * Backend↴
-  * NodeJS ◉◉◉◉◉
-  * DJango ◉◉◉◉
+  * Flask ◉◉◉◉
+  * NodeJS ◉◉◉
   * ASP .NET ◉◉◉
+  * DJango ◉◉
   * PHP ◉◉
-  * Flask ◉
   
 * Bases de datos↴
   * MongoDB ◉◉◉◉
@@ -56,4 +56,4 @@ Proyecto principal https://github.com/jisus-17/pyxel-ProUtilities - Jisus17
   * CSS ◉◉◉◉
   * XML ◉◉
 
-*Indice de habilidades* *Profesional - ◉◉◉◉◉ Avanzado - ◉◉◉◉ Medio - ◉◉◉ Novato - ◉◉ Uso mínimo - ◉*
+*Indice de habilidades* *Profesional - ◉◉◉◉◉ Avanzado - ◉◉◉◉ Medio - ◉◉◉ Novato - ◉◉ Uso mínimo - ◉ Conozco la syntax

@@ -1,4 +1,4 @@
-Proyecto principal https://github.com/jisus-17/17tech - Jisus17
+Proyecto principal https://github.com/jisus-17/pyxel-ProUtilities - Jisus17
 
 ## Soy Jesús, tengo habidad en diseño y desarrollo de robótica e Iot además soy desarrollador fullstack con experiencia en:
 
